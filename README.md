@@ -53,4 +53,4 @@ Currently, DBU ICT has **no public repositories**.
 
 ---
 
-📧 **Contact**: `ict-admin@dbu.edu`  
+📧 **Contact**: `dbuict@dbu.edu.et`  
