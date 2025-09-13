@@ -1,7 +1,7 @@
 <!-- Org Profile README.md -->
 
 <p align="center">
-  <img src="https://www.dbu.edu.et/images/logo_new.png" alt="DBU Logo" width="120">
+  <img src="https://www.dbu.edu.et/images/logo_new.png" alt="DBU Logo" width="100%">
 </p>
 
 <h1 align="center">DBU ICT Executive</h1>
