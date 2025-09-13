@@ -1,7 +1,7 @@
 <!-- Org Profile README.md -->
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Debre_Berhan_University_logo.png/200px-Debre_Berhan_University_logo.png" alt="DBU Logo" width="120">
+  <img src="https://www.dbu.edu.et/images/logo_new.png" alt="DBU Logo" width="120">
 </p>
 
 <h1 align="center">DBU ICT Executive</h1>
